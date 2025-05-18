@@ -1,3 +1,8 @@
 streamlit
+yfinance
 matplotlib
-# requirements.txt
+pandas
+scikit-learn
+ta
+nltk
+
